@@ -8,13 +8,13 @@ This project is a tribute page dedicated to **Alakh Pandey**, the visionary foun
 
 ## 📚 Table of Contents
 
-- [✨ Features](#features)
-- [💻 Technologies Used](#technologies-used)
-- [📥 Installation](#installation)
-- [🖥️ Usage](#usage)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-- [📧 Contact](#contact)
+-  ✨ Features
+-  💻 Technologies Used
+-  📥 Installation
+-  🖥️ Usage
+-  🤝 Contributing
+-  📜 License
+-  📧 Contact
 
 ## ✨ Features
 
